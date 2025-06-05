@@ -1,0 +1,12 @@
+// ~/.GH/Qompass/License/.zenodo.json
+// ----------------------------------
+// Copyright (C) 2025 Qompass AI, All rights reserved
+
+{
+  "title": "Q-CDA-1.0 License",
+  "description": "Custom license for Qompass AI.",
+  "license": "Q-CDA-1.0",
+  "upload_type": "software",
+  "access_right": "open"
+}
+
