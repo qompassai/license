@@ -3,68 +3,40 @@
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 <!-- ---------------------------- -->
 
-<h2> Qompass AI Licensing </h2>
+<h2> Qompass AI License </h2>
 
-![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nur)
-![GitHub all releases](https://img.shields.io/github/downloads/qompassai/nur/total?style=flat-square)
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-license)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/license/total?style=flat-square)
 
-<a href="https://github.com/qompassai/nur-packages">
+<a href="https://github.com/qompassai/license">
   <img src="https://img.shields.io/github/stars/qompassai/nur-packages?style=for-the-badge&logo=github&label=QompassAI%20NUR&color=003366" alt="QompassAI NUR Stars">
 </a>
 <br>
 
-<a href="https://github.com/nix-community/NUR">
-  <img src="https://img.shields.io/badge/NUR-Registered-success?style=flat-square&logo=nixos" alt="NUR Registered">
-</a>
-<a href="https://github.com/qompassai/nur-packages">
-  <img src="https://img.shields.io/github/last-commit/qompassai/nur-packages?style=flat-square&label=Last%20Update" alt="Last Update">
-</a>
-<a href="https://github.com/qompassai/nur-packages/issues">
-  <img src="https://img.shields.io/github/issues/qompassai/nur-packages?style=flat-square" alt="Issues">
-</a>
-<a href="https://github.com/qompassai/nur-packages/actions">
-  <img src="https://img.shields.io/github/actions/workflow/status/qompassai/nur-packages/ci.yml?style=flat-square&label=Build" alt="Build Status">
-</a>
-<br>
 
-<a href="https://developer.nvidia.com/cuda-toolkit">
-  <img src="https://img.shields.io/badge/CUDA-12.8-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA Support">
-</a>
-<a href="https://github.com/qompassai/qjp">
-  <img src="https://img.shields.io/badge/Jetpack-NixOS-4A90E2?style=flat-square&logo=nixos&logoColor=white" alt="Jetpack NixOS">
-</a>
-<a href="https://github.com/anduril/qjp">
-  <img src="https://img.shields.io/badge/Anduril-Fork-FF6B35?style=flat-square&logo=github&logoColor=white" alt="Anduril Fork">
-</a>
-<a href="https://openquantumsafe.org">
-  <img src="https://img.shields.io/badge/PQC-OpenSSL%203.5-1B1F23?style=flat-square&logo=openssl&logoColor=white" alt="Post-Quantum Crypto">
-</a>
-<br>
-
-<a href="#ai-packages">
-  <img src="https://img.shields.io/badge/AI%2F-Packages-00ACC1?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML Packages">
-</a>
-<a href="#quantum-packages">
-  <img src="https://img.shields.io/badge/Quantum-Packages-7B1FA2?style=flat-square&logo=atom&logoColor=white" alt="Quantum Packages">
-</a>
-<a href="#security-packages">
-  <img src="https://img.shields.io/badge/Security-Packages-D32F2F?style=flat-square&logo=kalilinux&logoColor=white" alt="Security Packages">
-</a>
-  <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
+<a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
   <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
 </p>
 
 ______________________________________________________________________
 
-<details id="About Our Founder">
-  <summary><strong>About our Founder</strong></summary>
+<details>
+<summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;"><strong>🎨 How to Use Qompass AI CSS</strong></summary>
+<blockquote style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #f8f9fa; border-left: 6px solid #667eea; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+
+</blockquote>
+</details>
+
+<details>
+<summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;"><strong>🧭 About Qompass AI</strong></summary>
+<blockquote style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #f8f9fa; border-left: 6px solid #667eea; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
 <div align="center">
   <p>Matthew A. Porter<br>
-  Founder & CEO<br>
-  Qompass AI, Spokane, WA</p>
+  Former Intelligence Officer<br>
+  Educator & Learner<br>
+  DeepTech Founder & CEO</p>
 </div>
-</details>
 
 <h3>Publications</h3>
   <p>
@@ -79,16 +51,13 @@ ______________________________________________________________________
     </a>
   </p>
 
-<h3 align="center">Developer Programs</h3>
-<div align="center">
+<h3>Developer Programs</h3>
 
-[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
-[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
-[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
-[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
-
-</div>
+[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)](https://developer.nvidia.com/)
+[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge\&logo=meta\&logoColor=white)](https://developers.facebook.com/)
+[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge\&logo=hackerone\&logoColor=white)](https://hackerone.com/phaedrusflow)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square\&logo=huggingface)](https://huggingface.co/qompass)
+[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge\&logo=epic-games\&logoColor=white)](https://dev.epicgames.com/)
 
 <h3>Professional Profiles</h3>
   <p>
@@ -109,19 +78,22 @@ ______________________________________________________________________
       <img src="https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram" alt="Instagram">
     </a>
     <a href="https://www.youtube.com/@qompassai">
-      <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="Qompass AI YouTube">
     </a>
   </p>
 
-</div>
+</blockquote>
 </details>
 
+<details>
+<summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #ff6b6b; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;"><strong>🔥 How Do I Support</strong></summary>
+<blockquote style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #fff5f5; border-left: 6px solid #ff6b6b; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+
 <div align="center">
-<h3>💰 Our Support & Funding</h3>
 
 <table>
 <tr>
-<th align="center">🏛️ Pre-Seed Funding 2023-2025</th>
+<th align="center">🏛️ Qompass AI Pre-Seed Funding 2023-2025</th>
 <th align="center">🏆 Amount</th>
 <th align="center">📅 Date</th>
 </tr>
@@ -139,21 +111,34 @@ ______________________________________________________________________
 </table>
 
 <br>
-<h4>🤝 Support Our Mission</h4>
+<h4>🤝 How To Support Our Mission</h4>
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/phaedrusflow)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/qompassai)
-[![Liberapay](https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/qompassai)
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF2?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/qompassai)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/phaedrusflow)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge\&logo=github-sponsors\&logoColor=white)](https://github.com/sponsors/phaedrusflow)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge\&logo=patreon\&logoColor=white)](https://patreon.com/qompassai)
+[![Liberapay](https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge\&logo=liberapay\&logoColor=black)](https://liberapay.com/qompassai)
+[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF2?style=for-the-badge\&logo=opencollective\&logoColor=white)](https://opencollective.com/qompassai)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/phaedrusflow)
 
-<details>
+<details markdown="1">
 <summary><strong>🔐 Cryptocurrency Donations</strong></summary>
 
 **Monero (XMR):**
 
-42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH
+<div align="center">
+  <img src="./assets/monero-qr.png" alt="Monero QR Code" width="180">
+</div>
 
+<div style="margin: 10px 0;">
+    <code>42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH</code>
+  </div>
+
+<button onclick="navigator.clipboard.writeText('42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH')" style="padding: 6px 12px; background: #FF6600; color: white; border: none; border-radius: 4px; cursor: pointer;">
+    📋 Copy Address
+  </button>
+<p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
+
+</blockquote>
+</details>
 </details>
 
 <details id="FAQ">
